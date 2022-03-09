@@ -17,11 +17,10 @@ used in websites like **Airbnb** or **Booking**.
 
 ### Development Stages
 
-- Creation of the conceptual model - [here]()
-- Conversion to a relational system - [here]()
-- Creation of the database - [here]()
-- Data insertion - [here]()
-- Querying - [here]()
-- Addition of relevant triggers - [here]()
+- Creation of the conceptual model - [here](./docs/uml.drawio.png)
+- Conversion to a relational system - [here](./docs/relational-model.pdf)
+- Creation of the database and data insertion - [here](./db/)
+- Querying - [here](./queries/)
+- Addition of relevant triggers - [here](./triggers/)
 
 For a more detailed report (pt) click [here](./relatorio.pdf).
