@@ -23,4 +23,4 @@ used in websites like **Airbnb** or **Booking**.
 - Querying - [here](./queries/)
 - Addition of relevant triggers - [here](./triggers/)
 
-For a more detailed project report (pt) click [here](./relatorio.pdf).
+For a more detailed project report (pt), click [here](./relatorio.pdf).
